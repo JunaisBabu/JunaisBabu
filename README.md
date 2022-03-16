@@ -6,6 +6,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: IG --> @ju_nyc_
+- 📫 How to reach me: [IG - @ju_nyc_](https://www.instagram.com/ju_nyc_/) | [Twitter - @JunaisDvs](https://twitter.com/JunaisDvs)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=junaisbabu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
