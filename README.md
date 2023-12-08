@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning Full Statck Web Development.
 
-- 🌐 <a href="junaisbabu.com" alt="Junais Babu's Website">Personal Website</a>
+- 🌐 <a href="https://www.junaisbabu.com" alt="Junais Babu's Website">Personal Website</a>
 
 - 📫 How to reach me: junaisdvs@gmail.com | <a href="https://www.linkedin.com/in/junaisbabu/">LinkedIn</a>
